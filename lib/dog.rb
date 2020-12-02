@@ -10,3 +10,5 @@ class Dog
   
   def bar;
     puts "Woof!"
+  end 
+end
